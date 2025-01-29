@@ -1,0 +1,9 @@
+Warning: Inference script 'inference_nnunet_bobs.sh' is not executable. Attempting to set executable permission.
+Successfully set executable permission for 'inference_nnunet_bobs.sh'.
+Submitting inference job for Dataset ID: 22
+Successfully submitted job 4460970 for Dataset ID 22.
+Submitting inference job for Dataset ID: 24
+Successfully submitted job 4460971 for Dataset ID 24.
+Submitting inference job for Dataset ID: 27
+Successfully submitted job 4460972 for Dataset ID 27.
+All inference jobs have been submitted.

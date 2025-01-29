@@ -1,0 +1,16 @@
+Submitting inference_swinunetr_from_backbone_checkpoint.sh to SLURM...
+Submitted batch job 3995528
+Successfully submitted inference_swinunetr_from_backbone_checkpoint.sh
+Submitting inference_swinunetr_from_backbone_checkpoint_ukb_fine_tuned_from_ct.sh to SLURM...
+Submitted batch job 3995529
+Successfully submitted inference_swinunetr_from_backbone_checkpoint_ukb_fine_tuned_from_ct.sh
+Submitting inference_swinunetr_from_backbone_checkpoint_ukb_from_scratch.sh to SLURM...
+Submitted batch job 3995530
+Successfully submitted inference_swinunetr_from_backbone_checkpoint_ukb_from_scratch.sh
+Submitting inference_swinunetr_from_brats24_checkpoint.sh to SLURM...
+Submitted batch job 3995531
+Successfully submitted inference_swinunetr_from_brats24_checkpoint.sh
+Submitting inference_swinunetr_from_scratch.sh to SLURM...
+Submitted batch job 3995532
+Successfully submitted inference_swinunetr_from_scratch.sh
+All specified scripts have been processed for submission.
