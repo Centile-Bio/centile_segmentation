@@ -30,7 +30,6 @@ vessel_boost/
 VesselBoost/
 BiomedParse/
 cache/
-research-contributions/
 
 # Ignore heavy directories in nnunet
 nnunet/nnUNet_preprocessed/
