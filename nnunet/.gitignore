@@ -1,0 +1,4 @@
+# Ignore heavy directories
+nnUNet_preprocessed/
+nnUNet_raw/
+nnUNet_results/

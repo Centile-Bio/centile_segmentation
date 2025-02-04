@@ -1,0 +1,39 @@
+# Ignore all .sif files
+*.sif
+
+# Ignore all .nii files
+*.nii
+
+# Ignore all .gz files
+*.gz
+
+# Ignore all .nii.gz files
+*.nii.gz
+
+# Ignore all .npz files
+*.npz
+
+# Ignore all .pkl files
+*.pkl
+
+# Ignore all models
+# Ignore all .pth files
+*.pth
+
+# Ignore all .pt files
+*.pt
+
+# Ignore specific folders
+data/
+conda_envs/
+vessel_boost/
+VesselBoost/
+BiomedParse/
+cache/
+research-contributions/
+
+# Ignore heavy directories in nnunet
+nnunet/nnUNet_preprocessed/
+nnunet/nnUNet_raw/
+nnunet/nnUNet_results/
+
